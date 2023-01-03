@@ -12,3 +12,26 @@
 - [Tugas Nomor 2 Adafruit.IO+Sensor+LED+Suara](https://github.com/sariwhyu/TugasNo2)
 - [Tugas Nomor 3 ThingSpeak+Sensor](https://github.com/sariwhyu/TugasNo3)
 - [Tugas Nomor 4 ESP Now+IOT](https://github.com/sariwhyu/TugasNo4)
+
+# JobSheet 3 TOPOLOGI JARINGAN LOKAL DAN WIFI
+
+## Alat & Bahan
+
+-	ESP32
+-	Breadboard
+-	Kabel jumper
+-	Sensor DHT 11, RFID
+-	LED (5) dan Push Button (3)
+-	Servo
+-	Resistor 330,1K, 10K Ohm (@ 3)
+
+
+## Coding
+
+### Button Push LED ON
+
+```bash
+  
+```
+
+## Hasil
