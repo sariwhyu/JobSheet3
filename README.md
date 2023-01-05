@@ -318,7 +318,7 @@ void loop(){
 
 ## Hasil
 
-[Documentation](https://github.com/sariwhyu/JobSheet3/blob/main/COM3%202022-11-28%2010-17-07.mp4)
+![Documentation](https://github.com/sariwhyu/JobSheet3/blob/main/COM3%202022-11-28%2010-17-07.mp4)
 
 ![App Screenshot](https://github.com/sariwhyu/JobSheet3/blob/main/1.png)
 
