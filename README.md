@@ -318,6 +318,12 @@ void loop(){
 
 ## Hasil
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://github.com/sariwhyu/JobSheet3/blob/main/COM3%202022-11-28%2010-17-07.mp4)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/sariwhyu/JobSheet3/blob/main/1.png)
+
+![App Screenshot](https://github.com/sariwhyu/JobSheet3/blob/main/3%20(1).png)
+
+![App Screenshot](https://github.com/sariwhyu/JobSheet3/blob/main/3.png)
+
+![App Screenshot](https://github.com/sariwhyu/JobSheet3/blob/main/WhatsApp%20Image%202022-11-28%20at%2011.30.18.jpeg)
