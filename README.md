@@ -14,7 +14,7 @@
 - [Jobsheet4.4 - ESP Now+IOT](https://github.com/sariwhyu/TugasNo4)
 
 
-# JobSheet 3 TOPOLOGI JARINGAN LOKAL DAN WIFI
+# JobSheet 3 - Topologi Jaringan Lokal dan WiFi
 
 ## Alat & Bahan
 
